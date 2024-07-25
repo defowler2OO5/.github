@@ -17,4 +17,4 @@ app.get('*', (req, res, next) => {
 
 app.get('*', (_, res) => {
     res.set('Content-Type', 'text/html'); res.set(200).send(fs.readFileSync('./404.html'))
-});
+}); 
