@@ -1,0 +1,67 @@
+{
+    "name": "defowler",
+    "short_name": "defowler",
+    "version": "0.0.1",
+    "start_url": "/",
+    "display": "standalone",
+    "icons": [
+        {
+            "sizes": "114x114",
+            "src": "https://defowler.tech/favicons/favicon_114x114.png"
+        },
+        {
+            "sizes": "120x120",
+            "src": "https://defowler.tech/favicons/favicon_120x120.png"
+        },
+        {
+            "sizes": "144x144",
+            "src": "https://defowler.tech/favicons/favicon_144x144.png"
+        },
+        {
+            "sizes": "152x152",
+            "src": "https://defowler.tech/favicons/favicon_152x152.png"
+        }
+    ],
+    "prefer_related_applications": true,
+    "related_applications": [],
+    "background_color": "#ffffff",
+    "theme_color": "#4285f4",
+    "description": "",
+    "lang": "en-AU",
+    "scope": "/",
+    "categories": [
+        "Personal",
+        "Entertainment"
+    ],
+    "dir": "auto",
+    "orientation": "any",
+    "screenshots": [
+        {
+            "src": "https://defowler.tech/favicon.png",
+            "sizes": "480x800",
+            "type": "image/png"
+        },
+        {
+            "src": "https://defowler.tech/favicon.png",
+            "sizes": "1080x1920",
+            "type": "image/png"
+        }
+    ],
+    "shortcuts": [
+        /**{
+            "name": "",
+            "url": "",
+            "description": "",
+            "icons": [
+                {
+                    "src": "https://defowler.tech/favicon.png",
+                    "sizes": "48x48"
+                },
+                {
+                    "src": "https://defowler.tech/favicon.png",
+                    "sizes": "96x96"
+                }
+            ]
+        }*/
+    ]
+}
